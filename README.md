@@ -1,4 +1,3 @@
-# Desafio_ROCKETSEAT
-ESSE PROJETO FOI FEITO COMO DESAFIO FINAL DO CURSO DA ROCKETSEAT
-  
-https://durant019.github.io/Desafio_ROCKETSEAT/
+# Desafio Rocketseat
+
+Desafio final do curso básic da Rocketseat, este foi um desafio que foi pedido para eu desenvolve-lo para finalizar o plano basic.
